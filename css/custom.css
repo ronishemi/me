@@ -1,4 +1,14 @@
-h1 {
+p {
     padding-top: 1em;
-    
+	padding-left: 2em;
+    text-align:left;
+	font-size:2rem;
+	color:black;
+	display: block;
+	 background-color: white;
+	opacity:0.4;
+	 }
+h7{
+color:white;
+font-size:2rem;
 }
