@@ -1,8 +1,8 @@
 p {
     padding-top: 1em;
-	padding-left: 2em;
+	padding-left: 1em;
     text-align:left;
-	font-size:2rem;
+	font-size:1.5rem;
 	color:black;
 	display: block;
 	 background-color: white;
@@ -10,5 +10,16 @@ p {
 	 }
 h7{
 color:white;
-font-size:2rem;
+font-size:1.5rem;
+}
+#container{
+	margin-top:1em;
+	margin-left: 2em;
+	margin-right: auto;
+	width: 50em;
+}
+body
+{
+background-repeat:no-repeat;
+background-color: gray;
 }
