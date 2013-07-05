@@ -7,6 +7,7 @@
 
 }
 p {
+	font-family:Arial;
     text-align:left;
 	font-size:1.1rem;
 	color:white;
@@ -26,9 +27,7 @@ margin: 0 auto;
 	
 }
 
-body
-{
+body{
+background:url("../img/maagan_michael.gif") no-repeat;
 
-background-repeat:no-repeat;
-background-color: gray;
 }
